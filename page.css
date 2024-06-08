@@ -1,0 +1,43 @@
+#color{
+    background-color:thistle;
+    border-style: solid;
+    border-color:rgb(78, 4, 78);
+    border-width: 2mm;
+}
+#heading{
+    text-align: center;
+}
+#head{
+    text-align: center;
+}
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+}
+#award{
+    text-align: center;
+}
+#date{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    margin-bottom: 10px;
+    font-style: oblique;
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+ul{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
